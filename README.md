@@ -212,7 +212,7 @@ The dashboard also provides graphical analysis of machine operating parameters t
 
 ## 📁 Project Structure
 
-``text
+```text
 AI-Powered-Smart-Factory-Control-Room/
 │
 ├── Dataset/
@@ -230,21 +230,18 @@ AI-Powered-Smart-Factory-Control-Room/
 ├── save_model.py
 ├── train_model.py
 └── README.md
+```
 
 
-## Conclusion
+## 📌 Conclusion
 
-The AI-Powered Smart Factory Control Room demonstrates how Machine Learning can be applied to predictive maintenance and industrial machine monitoring.
-
+The **AI-Powered Smart Factory Control Room** demonstrates how Machine Learning can be applied to predictive maintenance and industrial machine monitoring.
 By analyzing machine parameters such as temperature, rotational speed, torque, and tool wear, the system predicts the possibility of machine failure and provides a simple health and risk assessment.
-
-The interactive Streamlit dashboard makes the system easy to use and provides a foundation for developing a more advanced Industrial Digital Twin and Smart Factory monitoring system.
-
+The interactive Streamlit dashboard makes the system easy to use and provides a foundation for developing a more advanced **Industrial Digital Twin and Smart Factory monitoring system**.
 
 
-## Developed By
-Kshipra Joshi
 
-AI-Powered Smart Factory Control Room
-
-Industrial Digital Twin & Machine Failure Diagnosis System using Machine Learning
+## 👩‍💻 Developed By
+**Kshipra Joshi**
+**AI-Powered Smart Factory Control Room**
+*Industrial Digital Twin & Machine Failure Diagnosis System using Machine Learning*
