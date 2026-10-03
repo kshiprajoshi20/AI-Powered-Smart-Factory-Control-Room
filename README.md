@@ -149,7 +149,7 @@ The dashboard also provides graphical analysis of machine operating parameters t
 
 ## 🔄 System Workflow
 
-'
+
                 Machine Parameters
                        │
                        ▼
@@ -209,11 +209,9 @@ The dashboard also provides graphical analysis of machine operating parameters t
 - GitHub
 - GitHub Desktop
 
----
 
-## 📁 Project Structure
+📁 Project Structure
 
-`
 AI-Powered-Smart-Factory-Control-Room
 │
 ├── Dataset
@@ -230,11 +228,11 @@ AI-Powered-Smart-Factory-Control-Room
 ├── missing_values.py
 ├── save_model.py
 ├── train_model.py
-└── README.md    
+└── README.md 
 
 
 
-📌 Conclusion
+##📌 Conclusion
 
 The AI-Powered Smart Factory Control Room demonstrates how Machine Learning can be applied to predictive maintenance and industrial machine monitoring.
 
@@ -244,7 +242,7 @@ The interactive Streamlit dashboard makes the system easy to use and provides a 
 
 
 
--Developed By
+## Developed By
 Kshipra Joshi
 
 AI-Powered Smart Factory Control Room
