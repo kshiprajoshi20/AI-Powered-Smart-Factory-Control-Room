@@ -242,7 +242,7 @@ The interactive Streamlit dashboard makes the system easy to use and provides a 
 
 
 ## 👩‍💻 Developed By
-**Kshipra Joshi**
+**Kshipra Kshitij Joshi**
 
 **AI-Powered Smart Factory Control Room**
 
