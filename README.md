@@ -212,7 +212,7 @@ The dashboard also provides graphical analysis of machine operating parameters t
 
 ## 📁 Project Structure
 
-```text
+``text
 AI-Powered-Smart-Factory-Control-Room/
 │
 ├── Dataset/
@@ -230,6 +230,7 @@ AI-Powered-Smart-Factory-Control-Room/
 ├── save_model.py
 ├── train_model.py
 └── README.md
+
 
 ## Conclusion
 
