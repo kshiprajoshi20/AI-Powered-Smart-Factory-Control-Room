@@ -210,16 +210,17 @@ The dashboard also provides graphical analysis of machine operating parameters t
 - GitHub Desktop
 
 
-📁 Project Structure
+## 📁 Project Structure
 
-AI-Powered-Smart-Factory-Control-Room
+```text
+AI-Powered-Smart-Factory-Control-Room/
 │
-├── Dataset
+├── Dataset/
 │   └── ai4i2020.csv
 │
-├── Images
+├── Images/
 │
-├── models
+├── models/
 │   └── model.pkl
 │
 ├── analysis.py
@@ -228,11 +229,9 @@ AI-Powered-Smart-Factory-Control-Room
 ├── missing_values.py
 ├── save_model.py
 ├── train_model.py
-└── README.md 
+└── README.md
 
-
-
-##📌 Conclusion
+## Conclusion
 
 The AI-Powered Smart Factory Control Room demonstrates how Machine Learning can be applied to predictive maintenance and industrial machine monitoring.
 
