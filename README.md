@@ -1,4 +1,4 @@
-# AI-Powered-Smart-Factory-Control-Room
+# 🤖AI-Powered-Smart-Factory-Control-Room
 Industrial Digital Twin &amp; Machine Failure Diagnosis System using Machine Learning
 An AI-powered predictive maintenance system designed to monitor industrial machine parameters, predict possible machine failures, assess machine health, and provide maintenance recommendations through an interactive control-room dashboard.
 
@@ -243,5 +243,7 @@ The interactive Streamlit dashboard makes the system easy to use and provides a 
 
 ## 👩‍💻 Developed By
 **Kshipra Joshi**
+
 **AI-Powered Smart Factory Control Room**
+
 *Industrial Digital Twin & Machine Failure Diagnosis System using Machine Learning*
