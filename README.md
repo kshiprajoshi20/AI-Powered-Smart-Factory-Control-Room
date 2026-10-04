@@ -151,7 +151,7 @@ The dashboard also provides graphical analysis of machine operating parameters t
 
 ## 🔄 System Workflow
 
-```text
+
                 Machine Parameters
                        │
                        ▼
@@ -180,6 +180,7 @@ The dashboard also provides graphical analysis of machine operating parameters t
                        │
                        ▼
            Maintenance Recommendation
+
 
 
 ## 🛠️ Technologies Used
@@ -215,7 +216,6 @@ The dashboard also provides graphical analysis of machine operating parameters t
 
 ## 📁 Project Structure
 
-```text
 AI-Powered-Smart-Factory-Control-Room
 │
 ├── Dataset
@@ -234,7 +234,7 @@ AI-Powered-Smart-Factory-Control-Room
 ├── train_model.py
 └── README.md     
 
-📌 Conclusion
+###📌 Conclusion
 
 The AI-Powered Smart Factory Control Room demonstrates how Machine Learning can be applied to predictive maintenance and industrial machine monitoring.
 
